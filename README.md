@@ -1,1 +1,2 @@
-# waakan-tech-assignment
+Waakan Technilogies Assignment
+Registration form design
